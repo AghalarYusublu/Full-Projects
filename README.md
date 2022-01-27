@@ -4,6 +4,7 @@
   * React.js
   * Axios
   * Bootstrap
+  * [Preview](https://netflix-reactjs-app.netlify.app/)
   * [Repository](https://github.com/AghalarYusublu/PragmatechFrontendProject/tree/main/ReactTasks/Netflix%20React/netflix) 
     
   ![netflixImage](https://user-images.githubusercontent.com/54212700/148961780-651a0690-93c9-4a1c-ad6e-c81e0f7e03b3.png)
@@ -13,6 +14,7 @@
   * Redux
   * Typescript
   * TailwindCss
+  * [Preview](https://thrudark-ecommerce.netlify.app/)
   * [Repository](https://github.com/AghalarYusublu/PragmatechFrontendProject/tree/main/ReactTasks/E-Commerce/e-commerce)
    
   ![e-commerce Image](https://user-images.githubusercontent.com/54212700/148962293-4e600e27-eabb-41c9-897f-ed7c288fae15.png)
@@ -55,6 +57,7 @@
   * React.js
   * Css
   * Bootstrap
+  * [Preview](https://tic-tac-toe-game-reactjs-app.netlify.app/)
   * [Repository](https://github.com/AghalarYusublu/PragmatechFrontendProject/tree/main/ReactTasks/React%20Tic%20Tac%20Toe/app)
    
   ![TicTacToe](https://user-images.githubusercontent.com/54212700/148962667-8b5e62d5-4d25-48d9-a3d4-4c66a3a31708.png)
@@ -146,6 +149,7 @@
   * HTML
   * CSS
   * Javascript
+  * [Preview](https://animated-calculator-js.netlify.app/) 
   * [Repository](https://github.com/AghalarYusublu/PragmatechFrontendProject/tree/main/JsTasks/Calculator)
   ![calculator](https://user-images.githubusercontent.com/54212700/148970425-70a7c74d-d681-4f80-8a4f-0218c39a8921.png)
 
